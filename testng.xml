@@ -1,0 +1,15 @@
+<suite name="Flipkart functional test suite" thread-count="2" parallel="methods" >
+
+	<test name="Header Section tests">
+		<classes>
+			<class name="com.flipkart.HeaderTest.SearchProductTest"/>
+		</classes>
+	</test>
+	
+	<test name="Header Section tests - 1">
+		<classes>
+			<class name="com.flipkart.HeaderTest.SearchProductTest"/>
+		</classes>
+	</test>
+	
+</suite>
